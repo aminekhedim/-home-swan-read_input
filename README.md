@@ -1,2 +1,2 @@
-# -home-swan-read_input
+# -read wind file for swan model
 convert netcdf file to ascii file for swan model 
