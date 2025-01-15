@@ -1,2 +1,2 @@
-# -read wind file for swan model
+# -create  wind file for swan model
 convert netcdf file to ascii file for swan model 
